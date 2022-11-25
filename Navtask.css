@@ -1,0 +1,56 @@
+.stylinglogo {
+    width: 60px;
+    height: 50px;
+    padding: 5px;
+}
+.imageres {
+    height: 90px;
+    width: 110px;
+}
+.Navcard {
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover;
+    height: 30vh;
+}
+.Navpara {
+    font-weight: bold;
+}
+#go {
+    background-color: whitesmoke;
+    color: #323f4b;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+}
+#go:hover {
+    background-color: #FF4F58FF;
+    color: antiquewhite;
+    border: 0px;
+}
+.button {
+    font-size: medium;
+}
+
+.body {
+    height: 100%;
+    min-height: 100%
+}
+.searchi {
+    width: 200%;
+    position: relative;
+    border-radius: 5px;
+}
+.searchTerm {
+    margin: 0%;
+}
+.Navcard:hover {
+    transform: scale(1.5);
+}
+.stylinglogo:hover {
+    transform: scale(1.08);
+}
+.satya {
+    background-color:#EDBF69;
+}
